@@ -1,3 +1,1 @@
-"# twitch-bot-time-keeper" 
-
-Will create a time keeping bot on stream using Node.js
+Very simple NodeJS bot, just displays every 15 minutes to the stream. 
